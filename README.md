@@ -6,4 +6,4 @@ I used Crewai to build a debate between 3 political agents about 2024 European e
 After few iterations, I got
 rid of agents interactions error by specifying prompts with function descriptions.
 
-Although it doesn't work each time, I was able to get following result:
+Although it doesn't work each time, I was able to get results included into output.md
